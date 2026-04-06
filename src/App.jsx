@@ -5,7 +5,7 @@
 // import SearchBox from './SearchBox'
 // import InfoBox from './infoBox'
 
-import WeatherApp from "./weatherApp"
+import WeatherApp from "./WeatherApp";
 function App() {
   
 
