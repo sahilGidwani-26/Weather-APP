@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import "./SearchBox.css";
+import "./SearchBox.css"; //sahil
 
 export default function SearchBox({ updateInfo }) {
     let [city, setCity] = useState("");
